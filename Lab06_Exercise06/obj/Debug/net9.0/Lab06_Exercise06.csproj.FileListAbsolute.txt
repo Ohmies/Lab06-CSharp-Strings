@@ -1,0 +1,15 @@
+/Users/macbook/Documents/GitHub/OOP/Lab06-CSharp-Strings/Lab06_Exercise06/bin/Debug/net9.0/Lab06_Exercise06
+/Users/macbook/Documents/GitHub/OOP/Lab06-CSharp-Strings/Lab06_Exercise06/bin/Debug/net9.0/Lab06_Exercise06.deps.json
+/Users/macbook/Documents/GitHub/OOP/Lab06-CSharp-Strings/Lab06_Exercise06/bin/Debug/net9.0/Lab06_Exercise06.runtimeconfig.json
+/Users/macbook/Documents/GitHub/OOP/Lab06-CSharp-Strings/Lab06_Exercise06/bin/Debug/net9.0/Lab06_Exercise06.dll
+/Users/macbook/Documents/GitHub/OOP/Lab06-CSharp-Strings/Lab06_Exercise06/bin/Debug/net9.0/Lab06_Exercise06.pdb
+/Users/macbook/Documents/GitHub/OOP/Lab06-CSharp-Strings/Lab06_Exercise06/obj/Debug/net9.0/Lab06_Exercise06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/GitHub/OOP/Lab06-CSharp-Strings/Lab06_Exercise06/obj/Debug/net9.0/Lab06_Exercise06.AssemblyInfoInputs.cache
+/Users/macbook/Documents/GitHub/OOP/Lab06-CSharp-Strings/Lab06_Exercise06/obj/Debug/net9.0/Lab06_Exercise06.AssemblyInfo.cs
+/Users/macbook/Documents/GitHub/OOP/Lab06-CSharp-Strings/Lab06_Exercise06/obj/Debug/net9.0/Lab06_Exercise06.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/GitHub/OOP/Lab06-CSharp-Strings/Lab06_Exercise06/obj/Debug/net9.0/Lab06_Exercise06.sourcelink.json
+/Users/macbook/Documents/GitHub/OOP/Lab06-CSharp-Strings/Lab06_Exercise06/obj/Debug/net9.0/Lab06_Exercise06.dll
+/Users/macbook/Documents/GitHub/OOP/Lab06-CSharp-Strings/Lab06_Exercise06/obj/Debug/net9.0/refint/Lab06_Exercise06.dll
+/Users/macbook/Documents/GitHub/OOP/Lab06-CSharp-Strings/Lab06_Exercise06/obj/Debug/net9.0/Lab06_Exercise06.pdb
+/Users/macbook/Documents/GitHub/OOP/Lab06-CSharp-Strings/Lab06_Exercise06/obj/Debug/net9.0/Lab06_Exercise06.genruntimeconfig.cache
+/Users/macbook/Documents/GitHub/OOP/Lab06-CSharp-Strings/Lab06_Exercise06/obj/Debug/net9.0/ref/Lab06_Exercise06.dll
