@@ -8,25 +8,24 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/macbook/.nuget/packages/": {}
+    "/Users/ohmies/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macbook/Documents/GitHub/OOP/Lab06-CSharp-Strings/Lab06_Exercise01/Lab06_Exercise01.csproj",
+      "projectUniqueName": "/Users/ohmies/Documents/GitHub/KMITL_OOP/Lab06-CSharp-Strings/Lab06_Exercise01/Lab06_Exercise01.csproj",
       "projectName": "Lab06_Exercise01",
-      "projectPath": "/Users/macbook/Documents/GitHub/OOP/Lab06-CSharp-Strings/Lab06_Exercise01/Lab06_Exercise01.csproj",
-      "packagesPath": "/Users/macbook/.nuget/packages/",
-      "outputPath": "/Users/macbook/Documents/GitHub/OOP/Lab06-CSharp-Strings/Lab06_Exercise01/obj/",
+      "projectPath": "/Users/ohmies/Documents/GitHub/KMITL_OOP/Lab06-CSharp-Strings/Lab06_Exercise01/Lab06_Exercise01.csproj",
+      "packagesPath": "/Users/ohmies/.nuget/packages/",
+      "outputPath": "/Users/ohmies/Documents/GitHub/KMITL_OOP/Lab06-CSharp-Strings/Lab06_Exercise01/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/macbook/.nuget/NuGet/NuGet.Config"
+        "/Users/ohmies/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -43,7 +42,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
       "SdkAnalysisLevel": "9.0.100"
     },
@@ -66,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
